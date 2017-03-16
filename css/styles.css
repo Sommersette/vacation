@@ -1,0 +1,22 @@
+.container {
+  background-color: #f8f8f8;
+}
+
+.shiny {
+  font-family:monospace;
+}
+
+body {
+  background-image: url('../img/gray_texture.jpg');
+  background-size: cover;
+  font-family: 'Josephin Slab', serif;
+
+}
+
+#header {
+  background-image: url('../img/sign.jpg'), url('../img/rick.jpg');
+  background-repeat: no-repeat, no-repeat;
+  background-position: right, 40% 0;
+  background-size: contain, contain;
+  font-family: 'Lobster', cursive;
+}
